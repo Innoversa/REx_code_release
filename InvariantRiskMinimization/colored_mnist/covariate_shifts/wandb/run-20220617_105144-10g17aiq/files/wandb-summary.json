@@ -1,0 +1,1 @@
+{"min_of_train_acc_and_test_acc": 0.6559000015258789, "test_acc": 0.6559000015258789, "train_acc": 0.731660008430481, "_timestamp": 1655481135, "_runtime": 24, "_step": 500, "_wandb": {"runtime": 26}}

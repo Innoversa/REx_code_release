@@ -1,0 +1,147 @@
+2022-06-17 10:50:12,839 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/.config/wandb/settings
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/settings
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'silent': 'True'}
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py', 'program': '/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py'}
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_init.py:_log_setup():428] Logging user logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105012-3d3zoo77/logs/debug.log
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_init.py:_log_setup():429] Logging internal logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105012-3d3zoo77/logs/debug-internal.log
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_init.py:init():462] calling init triggers
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [wandb_init.py:init():515] starting backend
+2022-06-17 10:50:12,840 INFO    MainThread:3414488 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-06-17 10:50:12,884 INFO    MainThread:3414488 [backend.py:ensure_launched():217] starting backend process...
+2022-06-17 10:50:12,921 INFO    MainThread:3414488 [backend.py:ensure_launched():222] started backend process with pid: 3417695
+2022-06-17 10:50:12,923 INFO    MainThread:3414488 [wandb_init.py:init():525] backend started and connected
+2022-06-17 10:50:12,933 INFO    MainThread:3414488 [wandb_init.py:init():596] updated telemetry
+2022-06-17 10:50:13,039 INFO    MainThread:3414488 [wandb_init.py:init():627] communicating run to backend with 30 second timeout
+2022-06-17 10:50:14,393 INFO    MainThread:3414488 [wandb_run.py:_on_init():1924] communicating current version
+2022-06-17 10:50:14,470 INFO    MainThread:3414488 [wandb_run.py:_on_init():1928] got version response 
+2022-06-17 10:50:14,470 INFO    MainThread:3414488 [wandb_init.py:init():662] starting run threads in backend
+2022-06-17 10:50:18,878 INFO    MainThread:3414488 [wandb_run.py:_console_start():1898] atexit reg
+2022-06-17 10:50:18,879 INFO    MainThread:3414488 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.REDIRECT
+2022-06-17 10:50:18,879 INFO    MainThread:3414488 [wandb_run.py:_redirect():1776] Redirecting console.
+2022-06-17 10:50:18,886 INFO    MainThread:3414488 [wandb_run.py:_redirect():1832] Redirects installed.
+2022-06-17 10:50:18,886 INFO    MainThread:3414488 [wandb_init.py:init():688] run started, returning control to user process
+2022-06-17 10:50:18,888 INFO    MainThread:3414488 [wandb_run.py:_config_callback():1136] config_cb None None {'hidden_dim': 256, 'l2_regularizer_weight': 0.001, 'lr': 0.001, 'n_restarts': 10, 'penalty_anneal_iters': 100, 'penalty_weight': 10000.0, 'steps': 501, 'grayscale_model': False, 'batch_size': 25000, 'train_set_size': 50000, 'eval_interval': 100, 'print_eval_intervals': True, 'train_env_1__color_noise': 0.2, 'train_env_2__color_noise': 0.1, 'test_env__color_noise': 0.9, 'erm_amount': 1.0, 'early_loss_mean': True, 'rex': True, 'mse': True, 'plot': True, 'save_numpy_log': True, 'p': 1.0, 'test_prob_class_0': 0.5, 'plot_fig5_irm_paper': False, 'wandb_tag': 'irm_hparams__stable_x_shift', 'wandb_project': 'cs_hparam_tuning_2', 'shift': 'shift_spurious_x', 'use_wandb': True}
+2022-06-17 10:50:39,465 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/.config/wandb/settings
+2022-06-17 10:50:39,465 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/settings
+2022-06-17 10:50:39,465 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'silent': 'True'}
+2022-06-17 10:50:39,465 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py', 'program': '/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py'}
+2022-06-17 10:50:39,465 INFO    MainThread:3414488 [wandb_init.py:_log_setup():428] Logging user logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105039-14cdids0/logs/debug.log
+2022-06-17 10:50:39,466 INFO    MainThread:3414488 [wandb_init.py:_log_setup():429] Logging internal logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105039-14cdids0/logs/debug-internal.log
+2022-06-17 10:50:39,466 INFO    MainThread:3414488 [wandb_init.py:init():462] calling init triggers
+2022-06-17 10:50:39,466 INFO    MainThread:3414488 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-06-17 10:50:39,466 INFO    MainThread:3414488 [wandb_init.py:init():481] re-initializing run, found existing run on stack: 3d3zoo77
+2022-06-17 10:50:39,466 INFO    MainThread:3414488 [wandb_run.py:_finish():1685] finishing run siconghuang/cs_hparam_tuning_2/3d3zoo77
+2022-06-17 10:50:39,467 INFO    MainThread:3414488 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 0
+2022-06-17 10:50:39,471 INFO    MainThread:3414488 [wandb_run.py:_restore():1839] restore
+2022-06-17 10:50:42,451 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:50:43,016 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:50:43,243 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:50:43,458 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:43,562 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:43,665 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:43,767 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:43,870 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:43,973 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:44,077 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:44,180 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:44,541 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+
+2022-06-17 10:50:44,975 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12505
+  total_bytes: 12505
+}
+local_info {
+}
+

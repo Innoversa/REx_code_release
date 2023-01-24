@@ -1,0 +1,16 @@
+
+0               0.69464         0.49654         9.81937e-07     3.02855e-05     0.50980
+100             0.36465         0.85018         0.01426         0.00398         0.13030
+200             0.58691         0.68616         3.37522e-07     6.39442e-05     0.63290
+300             0.55741         0.71974         1.14458e-07     0.00095         0.65040
+400             0.54057         0.73706         1.00739e-07     0.00239         0.65340
+500             0.53059         0.74492         9.17911e-08     0.00319         0.65010
+highest test acc this run: 0.6534
+Final train acc (mean/std across restarts so far):
+0.73669136 0.0105836475
+Final test acc (mean/std across restarts so far):
+0.6534428 0.017283257
+Highest test acc (mean/std across restarts so far):
+0.6662286 0.01630765
+Restart 7
+step            train nll       train acc       rex penalty     irmv1 penalty   test acc

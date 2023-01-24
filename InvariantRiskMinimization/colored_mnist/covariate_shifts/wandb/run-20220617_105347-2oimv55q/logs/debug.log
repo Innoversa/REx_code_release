@@ -1,0 +1,456 @@
+2022-06-17 10:53:47,185 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/.config/wandb/settings
+2022-06-17 10:53:47,185 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/settings
+2022-06-17 10:53:47,185 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'silent': 'True'}
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py', 'program': '/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py'}
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,186 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,187 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.010 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,188 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,189 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,190 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:53:47,191 INFO    MainThread:3414488 [wandb_init.py:_log_setup():428] Logging user logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105347-2oimv55q/logs/debug.log
+2022-06-17 10:53:47,192 INFO    MainThread:3414488 [wandb_init.py:_log_setup():429] Logging internal logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105347-2oimv55q/logs/debug-internal.log
+2022-06-17 10:53:47,192 INFO    MainThread:3414488 [wandb_init.py:init():462] calling init triggers
+2022-06-17 10:53:47,192 INFO    MainThread:3414488 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-06-17 10:53:47,192 INFO    MainThread:3414488 [wandb_init.py:init():481] re-initializing run, found existing run on stack: 2f4b4h1u
+2022-06-17 10:53:47,192 INFO    MainThread:3414488 [wandb_run.py:_finish():1685] finishing run siconghuang/cs_hparam_tuning_2/2f4b4h1u
+2022-06-17 10:53:47,193 INFO    MainThread:3414488 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 0
+2022-06-17 10:53:47,207 INFO    MainThread:3414488 [wandb_run.py:_restore():1839] restore
+2022-06-17 10:53:50,069 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:53:50,705 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:53:50,927 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:53:51,030 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,133 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,235 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,338 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,440 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,543 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,646 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:51,748 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:52,151 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+
+2022-06-17 10:53:52,584 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12533
+  total_bytes: 12533
+}
+local_info {
+}
+
+2022-06-17 10:53:53,799 INFO    MainThread:3414488 [wandb_init.py:init():515] starting backend
+2022-06-17 10:53:53,799 INFO    MainThread:3414488 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-06-17 10:53:53,803 INFO    MainThread:3414488 [backend.py:ensure_launched():217] starting backend process...
+2022-06-17 10:53:53,852 INFO    MainThread:3414488 [backend.py:ensure_launched():222] started backend process with pid: 3467504
+2022-06-17 10:53:53,854 INFO    MainThread:3414488 [wandb_init.py:init():525] backend started and connected
+2022-06-17 10:53:53,862 INFO    MainThread:3414488 [wandb_init.py:init():596] updated telemetry
+2022-06-17 10:53:53,967 INFO    MainThread:3414488 [wandb_init.py:init():627] communicating run to backend with 30 second timeout
+2022-06-17 10:53:55,180 INFO    MainThread:3414488 [wandb_run.py:_on_init():1924] communicating current version
+2022-06-17 10:53:55,258 INFO    MainThread:3414488 [wandb_run.py:_on_init():1928] got version response 
+2022-06-17 10:53:55,258 INFO    MainThread:3414488 [wandb_init.py:init():662] starting run threads in backend
+2022-06-17 10:53:59,609 INFO    MainThread:3414488 [wandb_run.py:_console_start():1898] atexit reg
+2022-06-17 10:53:59,610 INFO    MainThread:3414488 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.REDIRECT
+2022-06-17 10:53:59,610 INFO    MainThread:3414488 [wandb_run.py:_redirect():1776] Redirecting console.
+2022-06-17 10:53:59,612 INFO    MainThread:3414488 [wandb_run.py:_redirect():1832] Redirects installed.
+2022-06-17 10:53:59,612 INFO    MainThread:3414488 [wandb_init.py:init():688] run started, returning control to user process
+2022-06-17 10:53:59,613 INFO    MainThread:3414488 [wandb_run.py:_config_callback():1136] config_cb None None {'hidden_dim': 256, 'l2_regularizer_weight': 0.001, 'lr': 0.001, 'n_restarts': 10, 'penalty_anneal_iters': 100, 'penalty_weight': 10000.0, 'steps': 501, 'grayscale_model': False, 'batch_size': 25000, 'train_set_size': 50000, 'eval_interval': 100, 'print_eval_intervals': True, 'train_env_1__color_noise': 0.2, 'train_env_2__color_noise': 0.1, 'test_env__color_noise': 0.9, 'erm_amount': 1.0, 'early_loss_mean': True, 'rex': True, 'mse': True, 'plot': True, 'save_numpy_log': True, 'p': 1.0, 'test_prob_class_0': 0.5, 'plot_fig5_irm_paper': False, 'wandb_tag': 'irm_hparams__stable_x_shift', 'wandb_project': 'cs_hparam_tuning_2', 'shift': 'shift_spurious_x', 'use_wandb': True}
+2022-06-17 10:54:18,575 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/.config/wandb/settings
+2022-06-17 10:54:18,575 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/settings
+2022-06-17 10:54:18,575 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'silent': 'True'}
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py', 'program': '/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py'}
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,576 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,577 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,578 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.010 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,579 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,580 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,581 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,582 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.001 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: \ 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,583 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m: - 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_setup.py:_flush():76] [34m[1mwandb[0m:                                                                                
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_init.py:_log_setup():428] Logging user logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105418-1nxyrgz5/logs/debug.log
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_init.py:_log_setup():429] Logging internal logs to /home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/wandb/run-20220617_105418-1nxyrgz5/logs/debug-internal.log
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_init.py:init():462] calling init triggers
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-06-17 10:54:18,584 INFO    MainThread:3414488 [wandb_init.py:init():481] re-initializing run, found existing run on stack: 2oimv55q
+2022-06-17 10:54:18,585 INFO    MainThread:3414488 [wandb_run.py:_finish():1685] finishing run siconghuang/cs_hparam_tuning_2/2oimv55q
+2022-06-17 10:54:18,586 INFO    MainThread:3414488 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 0
+2022-06-17 10:54:18,592 INFO    MainThread:3414488 [wandb_run.py:_restore():1839] restore
+2022-06-17 10:54:21,155 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:54:21,720 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:54:21,939 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 1018
+}
+
+2022-06-17 10:54:22,244 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 10953
+}
+
+2022-06-17 10:54:22,347 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,450 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 1018
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,552 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,654 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,760 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,863 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:22,965 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:23,068 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:23,488 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+
+2022-06-17 10:54:23,918 INFO    MainThread:3414488 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 12529
+  total_bytes: 12529
+}
+local_info {
+}
+

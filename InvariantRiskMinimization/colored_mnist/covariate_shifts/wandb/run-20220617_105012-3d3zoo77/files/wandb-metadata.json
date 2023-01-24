@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-113-generic-x86_64-with-glibc2.31",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-17T15:50:14.492106",
+    "startedAt": "2022-06-17T15:50:12.836726",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 8,
+    "cpu_count": 48,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release/InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py",
+    "codePath": "InvariantRiskMinimization/colored_mnist/covariate_shifts/color_imbalance.py",
+    "git": {
+        "remote": "https://github.com/capybaralet/REx_code_release.git",
+        "commit": "47dfb3a2f93a195389a9c933a66482eee455c720"
+    },
+    "email": "sicongjaxhuang@gmail.com",
+    "root": "/home/ugrads/c/clearloveyanzhen/CufflessBP/REx_code_release",
+    "host": "cse-stmi-s1.cse.tamu.edu",
+    "username": "siconghuang",
+    "executable": "/home/ugrads/c/clearloveyanzhen/miniconda3/envs/torch/bin/python"
+}
